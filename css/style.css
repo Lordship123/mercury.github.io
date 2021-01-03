@@ -1,0 +1,141 @@
+.header .container {
+  width: 100%; }
+
+.navbar-nav {
+  margin-left: auto; }
+
+.navbar-nav a.nav-link {
+  color: white;
+  margin-right: 50px;
+  font-family: 'Roboto', sans-serif; }
+
+.navbar {
+  background: #0e1a35; }
+
+.bg_head {
+  position: relative; }
+
+.content_menu {
+  line-height: 42px;
+  position: absolute;
+  color: white;
+  text-align: center;
+  font-size: 45px;
+  left: 0;
+  right: 0;
+  top: 15%;
+  bottom: 0;
+  width: 100%; }
+
+.second_cont {
+  font-size: 20px;
+  color: #8492af; }
+
+.bg_head .btn-primary {
+  margin-top: 30px;
+  width: 12%;
+  border-radius: 30px; }
+
+.feature {
+  margin-top: 20%;
+  display: flex;
+  justify-content: center; }
+
+.feature img {
+  margin-bottom: 70px; }
+
+.left_box {
+  text-align: center;
+  margin: 3%;
+  color: #8492af;
+  width: 300px; }
+
+.medium_box {
+  text-align: center;
+  margin: 3%;
+  color: #8492af;
+  width: 300px; }
+
+.right_box {
+  text-align: center;
+  margin: 3%;
+  color: #8492af;
+  width: 300px; }
+
+.first_feat {
+  color: black;
+  font-family: 'Roboto', sans-serif; }
+
+.feature .img_med {
+  margin-bottom: 60px; }
+
+.feature .img_right {
+  margin-bottom: 67px; }
+
+.feature .btn-light {
+  margin-top: 10px;
+  font-weight: bold;
+  width: 65%;
+  border-radius: 30px;
+  border: 1px solid #00000008; }
+
+.need {
+  margin-top: 10%;
+  display: flex; }
+
+.need_first_block {
+  margin-left: 65px;
+  margin-right: 65px; }
+
+.f_cont_need {
+  font-family: 'Roboto', sans-serif;
+  font-size: 50px;
+  font-weight: 100; }
+
+.s_cont_need {
+  font-size: 15px;
+  color: #8492af; }
+
+.t_cont_need {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+  color: #5584ff; }
+
+.drag {
+  position: relative; }
+
+.content_drag {
+  position: absolute;
+  color: white;
+  left: 0;
+  right: 0;
+  top: 15%;
+  bottom: 0;
+  width: 100%; }
+
+#div1, #div2 {
+  float: left;
+  width: 395px;
+  height: 103px;
+  margin: 8px;
+  border: 1px dashed #475675; }
+
+#div3 {
+  float: left;
+  width: 395px;
+  height: 103px;
+  margin: 8px;
+  border: 1px dashed #475675; }
+
+#div4 {
+  float: left;
+  width: 395px;
+  height: 103px;
+  margin: 8px;
+  border: 1px dashed #475675; }
+  #div4 p {
+    left: 38%;
+    position: absolute;
+    top: 42%; }
+
+/*# sourceMappingURL=style.css.map */
